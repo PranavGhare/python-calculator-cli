@@ -11,4 +11,4 @@ A simple menu-driven calculator built in Python as part of my Python learning jo
 
 ## How to Run
 ```bash
-python calculator.py
+Simple Calculator.py
